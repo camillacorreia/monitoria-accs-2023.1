@@ -1,0 +1,18 @@
+### Nomes - O Clube das Winx
+
+Em Alfea, a diretora Faragonda gostaria dos nome das alunas em ordem alfabéticas. Ajude-a a ter essa lista ordenada.
+
+#### Entrada
+A primeira linha contém um inteiro N (1 <= N <= 10) que representará a quantidade de nomes que a diretora gostaria de ordenar.
+
+Em seguinda, deve se digitar o nome de cada aluna.
+
+#### Saída
+O programa deve exibir uma mensagem informando o nome de cada aluna por ordem alfabética.
+
+#### Explicação da lógica
+Utilizando a ordenação por inserção para classificar as Winx por ordem alfabética de seus nomes. O programa deve utilizar um vetor para armazenar o nome de cada uma das Winx.
+
+O programa deve pedir ao usuário para digitar a quantidade de nomes a serem ordenados e o nome delas (ex: Bloom, Stella, Flora, Musa, Tecna e Aisha). Em seguida, o programa deve usar um algoritmo de ordenação por inserção para classificar os nomes em ordem alfabética.
+
+Por fim, o programa deve exibir os nomes das Winx em ordem alfabética na tela.
