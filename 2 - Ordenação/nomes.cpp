@@ -10,8 +10,8 @@ int main()
 
   string nomes_winx[qtd_nomes];
 
-  // Pede ao usuário para digitar o nome de cada Winx
-  cout << "Digite o nome das seis Winx principais:" << endl;
+  // Pede ao usuário para digitar o nome de cada fada
+  cout << "Digite o nome das fadas:" << endl;
   for (int i = 0; i < qtd_nomes; i++)
   {
     cout << "Winx " << i + 1 << ": ";
@@ -32,7 +32,7 @@ int main()
   }
 
   // Exibe os nomes em ordem alfabética
-  cout << "As Winx em ordem alfabética são:" << endl;
+  cout << "As fadas em ordem alfabética são:" << endl;
   for (int i = 0; i < qtd_nomes; i++)
   {
     cout << nomes_winx[i] << endl;
